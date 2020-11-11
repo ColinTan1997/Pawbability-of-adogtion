@@ -27,10 +27,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ## Our team
 
 
-
-## Motivation
-
-
 ## Contact
 
 ## Acknowledgements
